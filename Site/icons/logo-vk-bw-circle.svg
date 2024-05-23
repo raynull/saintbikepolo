@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   fill="none"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="VK_Compact_Logo_(2021-present).svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.9883106"
+     inkscape:cx="27.219697"
+     inkscape:cy="30.309049"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     id="path1"
+     style="fill:#000000;fill-opacity:1"
+     d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 8.0996094 14.599609 L 13.580078 14.599609 C 13.760078 23.759591 17.800006 27.639455 21 28.439453 L 21 14.599609 L 26.160156 14.599609 L 26.160156 22.5 C 29.32015 22.16 32.639768 18.559601 33.759766 14.599609 L 38.919922 14.599609 C 38.059924 19.479599 34.460385 23.080549 31.900391 24.560547 C 34.460385 25.760545 38.559143 28.90009 40.119141 34.580078 L 34.439453 34.580078 C 33.219455 30.780086 30.180148 27.839453 26.160156 27.439453 L 26.160156 34.580078 L 25.539062 34.580078 C 14.599084 34.580078 8.3596088 27.079585 8.0996094 14.599609 z " />
+</svg>
